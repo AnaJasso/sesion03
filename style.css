@@ -1,6 +1,6 @@
 
 body {
-  background-color: #fafafa;
+  background-color: #fffbf7;
 }
 
 .navigator{
@@ -50,7 +50,7 @@ a {
 }
 
 button {
-  color: rgb(247, 244, 244);
+  color: white;
   font-family: sans-serif;
   background-color: #67b54b;
   font-size: 14px;
@@ -81,3 +81,37 @@ h4 {
     font-size: 14px;
 }
 
+/* Sesion 3 */
+/* reto 3 */
+.publish {
+
+}
+
+.publish h3 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+  color: #025157;
+  
+}
+
+.publish > p {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #343434;
+}
+
+.publish > form {
+  display: flex;
+  flex-direction: column;
+}
+
+.publish > form p {
+  font-family: sans-serif;
+  color: #a7a5a5;
+  margin-right: 18px;
+}
+
+.publish > form button{
+  background-color: #025157;
+  color: #fffbf7;
+}
