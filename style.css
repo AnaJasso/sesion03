@@ -84,12 +84,8 @@ h4 {
 /* Sesion 3 */
 /* reto 3 */
 .publish {
-<<<<<<< HEAD
-
-=======
   /* container styles if any */
   flex: 1;
->>>>>>> 93af1dac68a1045c39f4b955e07b79fc98741f80
 }
 
 .publish h3 {
@@ -120,8 +116,6 @@ h4 {
   background-color: #025157;
   color: #fffbf7;
 }
-<<<<<<< HEAD
-=======
 
 /* Reto 4 */
 .container-video{
@@ -145,4 +139,3 @@ h4 {
   text-align: justify;
 }
 
->>>>>>> 93af1dac68a1045c39f4b955e07b79fc98741f80
